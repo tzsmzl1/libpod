@@ -22,6 +22,8 @@ var (
 			podRmCommand,
 			podStartCommand,
 			podStopCommand,
+			podPauseCommand,
+			podUnpauseCommand,
 		},
 	}
 )
